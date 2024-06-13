@@ -18,5 +18,5 @@ nova_url = urlunparse((
     nova.fragment
 ))
 
-print(nova_url)
+print('Nova URL: 'nova_url)
 
